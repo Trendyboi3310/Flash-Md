@@ -1,5 +1,5 @@
 {
-  "name":"FLASH-MD",
+  "name":"Lonely 🥺",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
@@ -32,7 +32,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : {
+    "BOT_NAME" : {Lonely Bot 
        
       "description":"put A name for your bot",
       "value":"FLASH-MD",
@@ -76,7 +76,7 @@
     "required": false,
     "value": "France King"
   },
-    "OWNER_NUMBER":
+    "OWNER_NUMBER": Trendy 
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
